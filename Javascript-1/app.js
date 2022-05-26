@@ -54,10 +54,34 @@
 
 
 
+//cannot find value of null and undefined
+// let a=null;
+// let b=undefined
+// console.log(a.ali)
+// console.log(b.ali)
+
+// let ali = {
+//     name: "Ali",
+//     car:{
+//         model: "maybach"
+
+//     }
+// }
+
+// let eded= parseInt(prompt("Ededi daxil et"))
+//  if (eded==0) {
+//      alert("eded sifirdir")
+//  }
+//  else{
+//      alert("eded sifir deyil")
+//  }
 
 
 
 
+
+
+// console.log(ali.car.model)
 // prompt() //optionaldir
 // confirm("Gel gedek istirahete")
 
