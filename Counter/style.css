@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+body {
+    background-color: #C8C8C8;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container > p {
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+input {
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    font-size: 50px;
+}
+
+.btn1,
+.btn2,
+.btn3 {
+    background-color: transparent;
+    border-radius: 5px;
+   padding: 15px;
+   letter-spacing: 2px;
+   margin-right: 10px;
+}
